@@ -60,5 +60,6 @@ This repository asserts structural authorship of the model whose phrasing and sy
 
 ## 🔗 Contact
 
-To discuss permission, licensing, or collaborative research, contact: [Author Contact Placeholder]
+To discuss permission, licensing, or collaborative research, contact: [SumacLn]
+
 
